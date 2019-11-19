@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Nodsoft.YumeChan.PluginBase;
 
-namespace Nodsoft.YumeChan.PluginSampleCS
+namespace BloodyTakao.WorldTimes
 {
 	// This Class defines the Plugin, and makes it visible to the Loader.
 	public class PluginManifest : IPlugin // Class MUST be set as public to get picked up by the Loader.

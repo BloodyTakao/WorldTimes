@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 
 
-namespace Nodsoft.YumeChan.PluginSampleCS
+namespace BloodyTakao.WorldTimes
 {
 	/* 
 	 * Classes can here act as a bundle of Commands. The only limitation is one Class per Group Name.
